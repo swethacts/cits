@@ -1,0 +1,7 @@
+Step,ObjectName,Description,Action,Input,Condition,Reference
+1,Execute,,eCommerce:TC1_Login,,,
+2,headerSearch1,"Click the [<Object>] ",Click,,,The
+3,headerSearch1,Enter the value [<Data>] in the Field [<Object>],Set,@hammer,,The
+4,headerSearchButton,"Click the [<Object>] ",Click,,,The
+5,20 oz. Hammer,"Click the [<Object>] ",Click,,,Search
+6,ADDTOCART,"Click the [<Object>] ",Click,,,DEWALT

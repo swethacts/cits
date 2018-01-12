@@ -1,0 +1,28 @@
+Step,ObjectName,Description,Action,Input,Condition,Reference
+1,headerSearch1,"Click the [<Object>] ",Click,,,The
+2,headerSearch1,Enter the value [<Data>] in the Field [<Object>],Set,@hammer,,The
+3,headerSearchButton,"Click the [<Object>] ",Click,,,The
+4,20 oz. Hammer,"Click the [<Object>] ",Click,,,Search
+5,name205594063,"Click the [<Object>] ",Click,,,DEWALT
+6,name2055940631,"Click the [<Object>] ",Click,,,DEWALT
+7,ADDTOCART,"Click the [<Object>] ",Click,,,DEWALT
+8,Checkout Now1,"Click the [<Object>] ",Click,,,Page
+9,Email Address:,"Click the [<Object>] ",Click,,,The1
+10,Email Address:1,Enter the value [<Data>] in the Field [<Object>],Set,@guest@gmail.com,,The1
+11,Continue,"Click the [<Object>] ",Click,,,The1
+12,First Name,"Click the [<Object>] ",Click,,,The2
+13,First Name,Enter the value [<Data>] in the Field [<Object>],Set,@Sam,,The2
+14,Last Name,Enter the value [<Data>] in the Field [<Object>],Set,@Adams,,The2
+15,Phone,"Click the [<Object>] ",Click,,,The2
+16,Phone,Enter the value [<Data>] in the Field [<Object>],Set,@(770) 111-2222,,The2
+17,Phone1,Enter the value [<Data>] in the Field [<Object>],Set,@(770) 111-2222,,The2
+18,Address Line 1,"Click the [<Object>] ",Click,,,The2
+19,Address Line 1,Enter the value [<Data>] in the Field [<Object>],Set,@1 Temple Street,,The2
+20,ZIP Code,Enter the value [<Data>] in the Field [<Object>],Set,@90034,,The2
+21,Enter credit card number,"Click the [<Object>] ",Click,,,The2
+22,cc,Enter the value [<Data>] in the Field [<Object>],Set,@4111 1111 1111 1111,,The2
+23,ccMonth,Select item in [<Object>] which has text: [<Data>],selectByVisibleText,@01 - January,,The2
+24,ccYear,Select item in [<Object>] which has text: [<Data>],selectByVisibleText,@2020,,The2
+25,CVV (on back),"Click the [<Object>] ",Click,,,The2
+26,CVV (on back)1,Enter the value [<Data>] in the Field [<Object>],Set,@123,,The2
+27,Place Order,"Click the [<Object>] ",Click,,,The2

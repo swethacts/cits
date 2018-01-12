@@ -1,0 +1,10 @@
+Step,ObjectName,Description,Action,Input,Condition,Reference
+1,Browser,Open the Url [<Data>] in the Browser,Open,@https://www.homedepot.com,,
+2,My Account,"Click the [<Object>] ",Click,,,The
+3,SIGNIN,"Wait for [<Object>] to be clickable ",waitForElementToBeClickable,,,The
+4,SIGNIN,"Click the [<Object>] ",Click,,,The
+5,Email,Enter the value [<Data>] in the Field [<Object>],Set,@jatin_jogi@homedepot.com,,The
+6,Password,Enter the Decrypted value [<Data>] in the Field [<Object>],setEncrypted,@d2luZG93c0AxMg== Enc,,The
+7,Sign In1,"Click the [<Object>] ",Click,,,The
+8,Browser,Wait for [<Data>] milli seconds,pause,@5000,SIGNIN,
+9,UserGreeting,Assert if Browser's Title Equals [<Data>],assertElementTextContains,"@Hello, Jatin",,The

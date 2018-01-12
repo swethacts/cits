@@ -1,0 +1,462 @@
+jkjkjkkj2018-01-04 22:17:04:01S -0500 [INFO] com.cognizant.cognizantits.ide.main.Main main:Launching Cognizant Intelligent Test Scripter IDE
+2018-01-04 22:17:05:01S -0500 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in /Users/ssmita/workspace/automation/cits/cognizant-intelligent-test-scripter-1.1/lib/cognizant-intelligent-test-scripter-engine-1.1.jar
+2018-01-04 22:17:07:01S -0500 [INFO] com.cognizant.cognizantits.engine.drivers.ChromeEmulators load:Loading ChromeEmulators from file
+2018-01-04 22:17:36:01S -0500 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in /Users/ssmita/workspace/automation/cits/cognizant-intelligent-test-scripter-1.1/lib/cognizant-intelligent-test-scripter-engine-1.1.jar
+2018-01-04 22:17:36:454 -0500 [Thread-6] [WARN] com.cognizant.cognizantits.engine.core.TMIntegration - TM integration disabled for testcases running via design mode
+2018-01-04 22:17:36:564 -0500 [Thread-6] [INFO] com.cognizant.cognizantits.engine.support.DesktopApi - Trying to Open - /Users/ssmita/workspace/automation/cits/cognizant-intelligent-test-scripter-1.1/Projects/DemoProject/Results/TestDesign/AngularJS_Support/AngularJS_Test/04-Jan-2018 22-17-36/summary.html
+2018-01-04 22:17:36:565 -0500 [Thread-6] [INFO] com.cognizant.cognizantits.engine.support.DesktopApi - Trying to exec: [open] [%s] [/Users/ssmita/workspace/automation/cits/cognizant-intelligent-test-scripter-1.1/Projects/DemoProject/Results/TestDesign/AngularJS_Support/AngularJS_Test/04-Jan-2018 22-17-36/summary.html]
+2018-01-04 22:20:10:315 -0500 [AWT-EventQueue-0] [INFO] org.eclipse.jetty.util.log - Logging initialized @186326ms to org.eclipse.jetty.util.log.Slf4jLog
+jar:file:/Users/ssmita/workspace/automation/cits/cognizant-intelligent-test-scripter-1.1/lib/cognizant-intelligent-test-scripter-extensionconnect-1.1.jar!/localhost
+2018-01-04 22:20:10:01S -0500 [INFO] com.cognizant.cognizantits.extension.server.ExtensionServer startSpy:Launching Server for Spy
+2018-01-04 22:20:10:01S -0500 [INFO] com.cognizant.cognizantits.extension.server.ExtensionServer$1 run:Starting Server
+2018-01-04 22:20:10:384 -0500 [SocketServer] [INFO] org.eclipse.jetty.server.Server - jetty-9.4.5.v20170502
+2018-01-04 22:20:10:426 -0500 [SocketServer] [INFO] org.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0
+2018-01-04 22:20:10:426 -0500 [SocketServer] [INFO] org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
+2018-01-04 22:20:10:428 -0500 [SocketServer] [INFO] org.eclipse.jetty.server.session - Scavenging every 600000ms
+2018-01-04 22:20:10:432 -0500 [SocketServer] [INFO] org.eclipse.jetty.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@6c58e6a5{/,null,AVAILABLE}
+2018-01-04 22:20:10:493 -0500 [SocketServer] [INFO] org.eclipse.jetty.util.ssl.SslContextFactory - x509=X509@97ba4b2(localhost,h=[localhost],w=[]) for SslContextFactory@67498163(jar:file:/Users/ssmita/workspace/automation/cits/cognizant-intelligent-test-scripter-1.1/lib/cognizant-intelligent-test-scripter-extensionconnect-1.1.jar!/localhost,null)
+2018-01-04 22:20:10:659 -0500 [SocketServer] [INFO] org.eclipse.jetty.server.AbstractConnector - Started ServerConnector@1d8c0ec6{SSL,[ssl, http/1.1]}{0.0.0.0:8887}
+2018-01-04 22:20:10:660 -0500 [SocketServer] [INFO] org.eclipse.jetty.server.Server - Started @186672ms
+2018-01-04 22:28:50:671 -0500 [AWT-EventQueue-0] [INFO] org.eclipse.jetty.server.AbstractConnector - Stopped ServerConnector@1d8c0ec6{SSL,[ssl, http/1.1]}{0.0.0.0:8887}
+2018-01-04 22:28:50:671 -0500 [AWT-EventQueue-0] [INFO] org.eclipse.jetty.server.session - Stopped scavenging
+2018-01-04 22:28:50:673 -0500 [AWT-EventQueue-0] [INFO] org.eclipse.jetty.server.handler.ContextHandler - Stopped o.e.j.s.ServletContextHandler@6c58e6a5{/,null,UNAVAILABLE}
+jar:file:/Users/ssmita/workspace/automation/cits/cognizant-intelligent-test-scripter-1.1/lib/cognizant-intelligent-test-scripter-extensionconnect-1.1.jar!/localhost
+2018-01-04 22:28:50:01S -0500 [INFO] com.cognizant.cognizantits.extension.server.ExtensionServer$1 run:Server Stopped
+2018-01-04 22:28:57:01S -0500 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in /Users/ssmita/workspace/automation/cits/cognizant-intelligent-test-scripter-1.1/lib/cognizant-intelligent-test-scripter-engine-1.1.jar
+2018-01-04 22:28:57:749 -0500 [Thread-27] [WARN] com.cognizant.cognizantits.engine.core.TMIntegration - TM integration disabled for testcases running via design mode
+2018-01-04 22:28:57:793 -0500 [Thread-27] [INFO] com.cognizant.cognizantits.engine.support.DesktopApi - Trying to Open - /Users/ssmita/workspace/automation/cits/cognizant-intelligent-test-scripter-1.1/Projects/DemoProject/Results/TestDesign/AngularJS_Support/AngularJS_Test/04-Jan-2018 22-28-57/summary.html
+2018-01-04 22:28:57:793 -0500 [Thread-27] [INFO] com.cognizant.cognizantits.engine.support.DesktopApi - Trying to exec: [open] [%s] [/Users/ssmita/workspace/automation/cits/cognizant-intelligent-test-scripter-1.1/Projects/DemoProject/Results/TestDesign/AngularJS_Support/AngularJS_Test/04-Jan-2018 22-28-57/summary.html]
+2018-01-04 22:29:14:01S -0500 [INFO] com.cognizant.cognizantits.ide.main.Main finish:Cognizant Intelligent Test Scripter IDE has been Terminated - [ Total Time : 00:12:07.916 ]
+2018-01-04 22:29:15:01S -0500 [INFO] com.cognizant.cognizantits.ide.main.Main main:Launching Cognizant Intelligent Test Scripter IDE
+2018-01-04 22:29:15:01S -0500 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in /Users/ssmita/workspace/automation/cits/cognizant-intelligent-test-scripter-1.1/lib/cognizant-intelligent-test-scripter-engine-1.1.jar
+2018-01-04 22:29:17:01S -0500 [INFO] com.cognizant.cognizantits.engine.drivers.ChromeEmulators load:Loading ChromeEmulators from file
+2018-01-04 22:29:35:01S -0500 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in /Users/ssmita/workspace/automation/cits/cognizant-intelligent-test-scripter-1.1/lib/cognizant-intelligent-test-scripter-engine-1.1.jar
+2018-01-04 22:29:35:738 -0500 [Thread-6] [WARN] com.cognizant.cognizantits.engine.core.TMIntegration - TM integration disabled for testcases running via design mode
+2018-01-04 22:29:35:857 -0500 [Thread-6] [INFO] com.cognizant.cognizantits.engine.support.DesktopApi - Trying to Open - /Users/ssmita/workspace/automation/cits/cognizant-intelligent-test-scripter-1.1/Projects/DemoProject/Results/TestDesign/BasicFeatures/LayoutTesting/04-Jan-2018 22-29-35/summary.html
+2018-01-04 22:29:35:858 -0500 [Thread-6] [INFO] com.cognizant.cognizantits.engine.support.DesktopApi - Trying to exec: [open] [%s] [/Users/ssmita/workspace/automation/cits/cognizant-intelligent-test-scripter-1.1/Projects/DemoProject/Results/TestDesign/BasicFeatures/LayoutTesting/04-Jan-2018 22-29-35/summary.html]
+2018-01-04 22:32:11:01S -0500 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in /Users/ssmita/workspace/automation/cits/cognizant-intelligent-test-scripter-1.1/lib/cognizant-intelligent-test-scripter-engine-1.1.jar
+2018-01-04 22:32:11:591 -0500 [Thread-8] [WARN] com.cognizant.cognizantits.engine.core.TMIntegration - TM integration disabled for testcases running via design mode
+2018-01-04 22:32:11:675 -0500 [Thread-8] [INFO] com.cognizant.cognizantits.engine.support.DesktopApi - Trying to Open - /Users/ssmita/workspace/automation/cits/cognizant-intelligent-test-scripter-1.1/Projects/DemoProject/Results/TestDesign/BasicFeatures/LayoutTesting/04-Jan-2018 22-32-11/summary.html
+2018-01-04 22:32:11:675 -0500 [Thread-8] [INFO] com.cognizant.cognizantits.engine.support.DesktopApi - Trying to exec: [open] [%s] [/Users/ssmita/workspace/automation/cits/cognizant-intelligent-test-scripter-1.1/Projects/DemoProject/Results/TestDesign/BasicFeatures/LayoutTesting/04-Jan-2018 22-32-11/summary.html]
+2018-01-04 22:34:19:01S -0500 [INFO] com.cognizant.cognizantits.ide.main.help.Help openInBrowser:Opening url https://cognizantqahub.github.io/Cognizant-Intelligent-Test-Scripter-Helpdoc
+2018-01-04 22:35:24:01S -0500 [SEVERE] com.cognizant.cognizantits.datalib.component.utils.FileUtils getRecords:File [/Users/ssmita/workspace/automation/cits/cognizant-intelligent-test-scripter-1.1/Projects/DemoProject/TestPlan/BasicFeatures/NewTestCase.csv] doesn't exist
+2018-01-04 22:35:36:514 -0500 [AWT-EventQueue-0] [INFO] org.eclipse.jetty.util.log - Logging initialized @381629ms to org.eclipse.jetty.util.log.Slf4jLog
+jar:file:/Users/ssmita/workspace/automation/cits/cognizant-intelligent-test-scripter-1.1/lib/cognizant-intelligent-test-scripter-extensionconnect-1.1.jar!/localhost
+2018-01-04 22:35:36:01S -0500 [INFO] com.cognizant.cognizantits.extension.server.ExtensionServer startRecord:Launching Server for Record
+2018-01-04 22:35:36:01S -0500 [INFO] com.cognizant.cognizantits.extension.server.ExtensionServer$1 run:Starting Server
+2018-01-04 22:35:36:573 -0500 [SocketServer] [INFO] org.eclipse.jetty.server.Server - jetty-9.4.5.v20170502
+2018-01-04 22:35:36:614 -0500 [SocketServer] [INFO] org.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0
+2018-01-04 22:35:36:614 -0500 [SocketServer] [INFO] org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
+2018-01-04 22:35:36:615 -0500 [SocketServer] [INFO] org.eclipse.jetty.server.session - Scavenging every 600000ms
+2018-01-04 22:35:36:620 -0500 [SocketServer] [INFO] org.eclipse.jetty.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@5bc98fe6{/,null,AVAILABLE}
+2018-01-04 22:35:36:663 -0500 [SocketServer] [INFO] org.eclipse.jetty.util.ssl.SslContextFactory - x509=X509@5d73e2e4(localhost,h=[localhost],w=[]) for SslContextFactory@7d35c27c(jar:file:/Users/ssmita/workspace/automation/cits/cognizant-intelligent-test-scripter-1.1/lib/cognizant-intelligent-test-scripter-extensionconnect-1.1.jar!/localhost,null)
+2018-01-04 22:35:36:758 -0500 [SocketServer] [INFO] org.eclipse.jetty.server.AbstractConnector - Started ServerConnector@16f22693{SSL,[ssl, http/1.1]}{0.0.0.0:8887}
+2018-01-04 22:35:36:759 -0500 [SocketServer] [INFO] org.eclipse.jetty.server.Server - Started @381875ms
+2018-01-04 22:35:50:683 -0500 [AWT-EventQueue-0] [INFO] org.eclipse.jetty.server.AbstractConnector - Stopped ServerConnector@16f22693{SSL,[ssl, http/1.1]}{0.0.0.0:8887}
+2018-01-04 22:35:50:684 -0500 [AWT-EventQueue-0] [INFO] org.eclipse.jetty.server.session - Stopped scavenging
+2018-01-04 22:35:50:686 -0500 [AWT-EventQueue-0] [INFO] org.eclipse.jetty.server.handler.ContextHandler - Stopped o.e.j.s.ServletContextHandler@5bc98fe6{/,null,UNAVAILABLE}
+jar:file:/Users/ssmita/workspace/automation/cits/cognizant-intelligent-test-scripter-1.1/lib/cognizant-intelligent-test-scripter-extensionconnect-1.1.jar!/localhost
+2018-01-04 22:35:50:01S -0500 [INFO] com.cognizant.cognizantits.extension.server.ExtensionServer$1 run:Server Stopped
+2018-01-04 22:35:56:01S -0500 [INFO] com.cognizant.cognizantits.ide.main.Main finish:Cognizant Intelligent Test Scripter IDE has been Terminated - [ Total Time : 00:06:41.056 ]
+2018-01-04 22:35:56:01S -0500 [INFO] com.cognizant.cognizantits.ide.main.Main main:Launching Cognizant Intelligent Test Scripter IDE
+2018-01-04 22:35:57:01S -0500 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in /Users/ssmita/workspace/automation/cits/cognizant-intelligent-test-scripter-1.1/lib/cognizant-intelligent-test-scripter-engine-1.1.jar
+2018-01-04 22:35:59:01S -0500 [INFO] com.cognizant.cognizantits.engine.drivers.ChromeEmulators load:Loading ChromeEmulators from file
+2018-01-04 22:36:31:01S -0500 [SEVERE] com.cognizant.cognizantits.datalib.component.utils.FileUtils getRecords:File [/Users/ssmita/workspace/automation/cits/cognizant-intelligent-test-scripter-1.1/Projects/DemoProject/TestPlan/BasicFeatures/NewTestCase.csv] doesn't exist
+2018-01-04 22:36:35:955 -0500 [AWT-EventQueue-0] [INFO] org.eclipse.jetty.util.log - Logging initialized @39175ms to org.eclipse.jetty.util.log.Slf4jLog
+jar:file:/Users/ssmita/workspace/automation/cits/cognizant-intelligent-test-scripter-1.1/lib/cognizant-intelligent-test-scripter-extensionconnect-1.1.jar!/localhost
+2018-01-04 22:36:36:01S -0500 [INFO] com.cognizant.cognizantits.extension.server.ExtensionServer startRecord:Launching Server for Record
+2018-01-04 22:36:36:01S -0500 [INFO] com.cognizant.cognizantits.extension.server.ExtensionServer$1 run:Starting Server
+2018-01-04 22:36:36:037 -0500 [SocketServer] [INFO] org.eclipse.jetty.server.Server - jetty-9.4.5.v20170502
+2018-01-04 22:36:36:066 -0500 [SocketServer] [INFO] org.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0
+2018-01-04 22:36:36:066 -0500 [SocketServer] [INFO] org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
+2018-01-04 22:36:36:067 -0500 [SocketServer] [INFO] org.eclipse.jetty.server.session - Scavenging every 660000ms
+2018-01-04 22:36:36:071 -0500 [SocketServer] [INFO] org.eclipse.jetty.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@27376fcb{/,null,AVAILABLE}
+2018-01-04 22:36:36:122 -0500 [SocketServer] [INFO] org.eclipse.jetty.util.ssl.SslContextFactory - x509=X509@63bf6572(localhost,h=[localhost],w=[]) for SslContextFactory@47be6e7f(jar:file:/Users/ssmita/workspace/automation/cits/cognizant-intelligent-test-scripter-1.1/lib/cognizant-intelligent-test-scripter-extensionconnect-1.1.jar!/localhost,null)
+2018-01-04 22:36:36:246 -0500 [SocketServer] [INFO] org.eclipse.jetty.server.AbstractConnector - Started ServerConnector@2a066921{SSL,[ssl, http/1.1]}{0.0.0.0:8887}
+2018-01-04 22:36:36:247 -0500 [SocketServer] [INFO] org.eclipse.jetty.server.Server - Started @39469ms
+2018-01-04 22:36:56:146 -0500 [AWT-EventQueue-0] [INFO] org.eclipse.jetty.server.AbstractConnector - Stopped ServerConnector@2a066921{SSL,[ssl, http/1.1]}{0.0.0.0:8887}
+2018-01-04 22:36:56:146 -0500 [AWT-EventQueue-0] [INFO] org.eclipse.jetty.server.session - Stopped scavenging
+2018-01-04 22:36:56:148 -0500 [AWT-EventQueue-0] [INFO] org.eclipse.jetty.server.handler.ContextHandler - Stopped o.e.j.s.ServletContextHandler@27376fcb{/,null,UNAVAILABLE}
+jar:file:/Users/ssmita/workspace/automation/cits/cognizant-intelligent-test-scripter-1.1/lib/cognizant-intelligent-test-scripter-extensionconnect-1.1.jar!/localhost
+2018-01-04 22:36:56:01S -0500 [INFO] com.cognizant.cognizantits.extension.server.ExtensionServer$1 run:Server Stopped
+jar:file:/Users/ssmita/workspace/automation/cits/cognizant-intelligent-test-scripter-1.1/lib/cognizant-intelligent-test-scripter-extensionconnect-1.1.jar!/localhost
+2018-01-04 22:36:58:01S -0500 [INFO] com.cognizant.cognizantits.extension.server.ExtensionServer startRecord:Launching Server for Record
+2018-01-04 22:36:58:01S -0500 [INFO] com.cognizant.cognizantits.extension.server.ExtensionServer$1 run:Starting Server
+2018-01-04 22:36:58:044 -0500 [SocketServer] [INFO] org.eclipse.jetty.server.Server - jetty-9.4.5.v20170502
+2018-01-04 22:36:58:045 -0500 [SocketServer] [INFO] org.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0
+2018-01-04 22:36:58:045 -0500 [SocketServer] [INFO] org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
+2018-01-04 22:36:58:046 -0500 [SocketServer] [INFO] org.eclipse.jetty.server.session - Scavenging every 600000ms
+2018-01-04 22:36:58:046 -0500 [SocketServer] [INFO] org.eclipse.jetty.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@5f9f361e{/,null,AVAILABLE}
+2018-01-04 22:36:58:048 -0500 [SocketServer] [INFO] org.eclipse.jetty.util.ssl.SslContextFactory - x509=X509@2ec7ae34(localhost,h=[localhost],w=[]) for SslContextFactory@1ea3698a(jar:file:/Users/ssmita/workspace/automation/cits/cognizant-intelligent-test-scripter-1.1/lib/cognizant-intelligent-test-scripter-extensionconnect-1.1.jar!/localhost,null)
+2018-01-04 22:36:58:050 -0500 [SocketServer] [INFO] org.eclipse.jetty.server.AbstractConnector - Started ServerConnector@4761af24{SSL,[ssl, http/1.1]}{0.0.0.0:8887}
+2018-01-04 22:36:58:050 -0500 [SocketServer] [INFO] org.eclipse.jetty.server.Server - Started @61272ms
+2018-01-04 22:37:41:01S -0500 [INFO] com.cognizant.cognizantits.ide.main.shr.web.Recorder saveObjectToPage:Object Added : Search
+2018-01-04 22:37:41:01S -0500 [INFO] com.cognizant.cognizantits.ide.main.shr.web.Recorder addAsStep:Object[Search] - Click - null
+2018-01-04 22:37:44:01S -0500 [WARNING] com.cognizant.cognizantits.ide.main.shr.web.Recorder saveObjectToPage:Object Already Present
+Page : hammer
+Object : Search
+2018-01-04 22:37:44:01S -0500 [INFO] com.cognizant.cognizantits.ide.main.shr.web.Recorder addAsStep:Object[Search] - Click - null
+2018-01-04 22:37:45:01S -0500 [WARNING] com.cognizant.cognizantits.ide.main.shr.web.Recorder saveObjectToPage:Object Already Present
+Page : hammer
+Object : Search
+2018-01-04 22:37:45:01S -0500 [INFO] com.cognizant.cognizantits.ide.main.shr.web.Recorder addAsStep:Object[Search] - Click - null
+2018-01-04 22:37:50:01S -0500 [INFO] com.cognizant.cognizantits.ide.main.shr.web.Recorder saveObjectToPage:Object Added : The Home Depot
+2018-01-04 22:37:50:01S -0500 [INFO] com.cognizant.cognizantits.ide.main.shr.web.Recorder addAsStep:Object[The Home Depot] - Click - null
+2018-01-04 22:37:53:01S -0500 [INFO] com.cognizant.cognizantits.ide.main.shr.web.Recorder saveObjectToPage:Object Added : headerSearch
+2018-01-04 22:37:53:01S -0500 [INFO] com.cognizant.cognizantits.ide.main.shr.web.Recorder addAsStep:Object[headerSearch] - Click - null
+2018-01-04 22:37:56:01S -0500 [INFO] com.cognizant.cognizantits.ide.main.shr.web.Recorder saveObjectToPage:Object Added : headerSearch1
+2018-01-04 22:37:56:01S -0500 [INFO] com.cognizant.cognizantits.ide.main.shr.web.Recorder addAsStep:Object[headerSearch1] - Set - @hammer
+2018-01-04 22:37:56:01S -0500 [WARNING] com.cognizant.cognizantits.ide.main.shr.web.Recorder saveObjectToPage:Object Already Present
+Page : The
+Object : headerSearch1
+2018-01-04 22:37:56:01S -0500 [INFO] com.cognizant.cognizantits.ide.main.shr.web.Recorder addAsStep:Object[headerSearch1] - Set - @hammer
+2018-01-04 22:37:56:01S -0500 [INFO] com.cognizant.cognizantits.ide.main.shr.web.Recorder saveObjectToPage:Object Added : headerSearchButton
+2018-01-04 22:37:56:01S -0500 [INFO] com.cognizant.cognizantits.ide.main.shr.web.Recorder addAsStep:Object[headerSearchButton] - Click - null
+2018-01-04 22:37:59:01S -0500 [INFO] com.cognizant.cognizantits.ide.main.shr.web.Recorder saveObjectToPage:Object Added : 20 oz. Hammer
+2018-01-04 22:37:59:01S -0500 [INFO] com.cognizant.cognizantits.ide.main.shr.web.Recorder addAsStep:Object[20 oz. Hammer] - Click - null
+2018-01-04 22:38:03:01S -0500 [INFO] com.cognizant.cognizantits.ide.main.shr.web.Recorder saveObjectToPage:Object Added : name205594063
+2018-01-04 22:38:03:01S -0500 [INFO] com.cognizant.cognizantits.ide.main.shr.web.Recorder addAsStep:Object[name205594063] - Click - null
+2018-01-04 22:38:03:01S -0500 [INFO] com.cognizant.cognizantits.ide.main.shr.web.Recorder saveObjectToPage:Object Added : name2055940631
+2018-01-04 22:38:03:01S -0500 [INFO] com.cognizant.cognizantits.ide.main.shr.web.Recorder addAsStep:Object[name2055940631] - Click - null
+2018-01-04 22:38:03:01S -0500 [INFO] com.cognizant.cognizantits.ide.main.shr.web.Recorder saveObjectToPage:Object Added : Add to Cart
+2018-01-04 22:38:03:01S -0500 [INFO] com.cognizant.cognizantits.ide.main.shr.web.Recorder addAsStep:Object[Add to Cart] - Click - null
+2018-01-04 22:38:11:01S -0500 [INFO] com.cognizant.cognizantits.ide.main.shr.web.Recorder saveObjectToPage:Object Added : Checkout Now
+2018-01-04 22:38:11:01S -0500 [INFO] com.cognizant.cognizantits.ide.main.shr.web.Recorder addAsStep:Object[Checkout Now] - Click - null
+2018-01-04 22:38:28:754 -0500 [AWT-EventQueue-0] [INFO] org.eclipse.jetty.server.AbstractConnector - Stopped ServerConnector@4761af24{SSL,[ssl, http/1.1]}{0.0.0.0:8887}
+2018-01-04 22:38:28:755 -0500 [AWT-EventQueue-0] [INFO] org.eclipse.jetty.server.session - Stopped scavenging
+2018-01-04 22:38:28:755 -0500 [AWT-EventQueue-0] [INFO] org.eclipse.jetty.server.handler.ContextHandler - Stopped o.e.j.s.ServletContextHandler@5f9f361e{/,null,UNAVAILABLE}
+jar:file:/Users/ssmita/workspace/automation/cits/cognizant-intelligent-test-scripter-1.1/lib/cognizant-intelligent-test-scripter-extensionconnect-1.1.jar!/localhost
+2018-01-04 22:38:28:01S -0500 [INFO] com.cognizant.cognizantits.extension.server.ExtensionServer$1 run:Server Stopped
+2018-01-04 22:39:04:01S -0500 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in /Users/ssmita/workspace/automation/cits/cognizant-intelligent-test-scripter-1.1/lib/cognizant-intelligent-test-scripter-engine-1.1.jar
+2018-01-04 22:39:04:354 -0500 [Thread-22] [WARN] com.cognizant.cognizantits.engine.core.TMIntegration - TM integration disabled for testcases running via design mode
+2018-01-04 22:39:04:445 -0500 [Thread-22] [INFO] com.cognizant.cognizantits.engine.support.DesktopApi - Trying to Open - /Users/ssmita/workspace/automation/cits/cognizant-intelligent-test-scripter-1.1/Projects/DemoProject/Results/TestDesign/BasicFeatures/NewTestCase/04-Jan-2018 22-39-04/summary.html
+2018-01-04 22:39:04:445 -0500 [Thread-22] [INFO] com.cognizant.cognizantits.engine.support.DesktopApi - Trying to exec: [open] [%s] [/Users/ssmita/workspace/automation/cits/cognizant-intelligent-test-scripter-1.1/Projects/DemoProject/Results/TestDesign/BasicFeatures/NewTestCase/04-Jan-2018 22-39-04/summary.html]
+2018-01-04 22:40:26:754 -0500 [AWT-EventQueue-0] [INFO] com.cognizant.cognizantits.engine.support.DesktopApi - Trying to Open - /Users/ssmita/workspace/automation/cits/cognizant-intelligent-test-scripter-1.1/log.txt
+2018-01-04 22:40:26:754 -0500 [AWT-EventQueue-0] [INFO] com.cognizant.cognizantits.engine.support.DesktopApi - Trying to exec: [open] [%s] [/Users/ssmita/workspace/automation/cits/cognizant-intelligent-test-scripter-1.1/log.txt]
+2018-01-05 09:49:49:01S -0500 [INFO] com.cognizant.cognizantits.ide.main.Main main:Launching Cognizant Intelligent Test Scripter IDE
+2018-01-05 09:49:50:01S -0500 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in /Users/ssmita/workspace/automation/cits/cognizant-intelligent-test-scripter-1.1/lib/cognizant-intelligent-test-scripter-engine-1.1.jar
+2018-01-05 09:49:51:01S -0500 [INFO] com.cognizant.cognizantits.engine.drivers.ChromeEmulators load:Loading ChromeEmulators from file
+2018-01-05 09:51:25:01S -0500 [INFO] com.cognizant.cognizantits.ide.main.help.Help openInBrowser:Opening url https://cognizantqahub.github.io/Cognizant-Intelligent-Test-Scripter-Helpdoc
+2018-01-05 09:59:20:01S -0500 [INFO] com.cognizant.cognizantits.datalib.component.utils.FileUtils renameFile:/Users/ssmita/workspace/automation/cits/cognizant-intelligent-test-scripter-1.1/Projects/DemoProject/ObjectRepository/WPage0 Renamed to temp
+2018-01-05 09:59:34:01S -0500 [INFO] com.cognizant.cognizantits.datalib.component.utils.FileUtils renameFile:/Users/ssmita/workspace/automation/cits/cognizant-intelligent-test-scripter-1.1/Projects/DemoProject/ObjectRepository/temp/WObject0 Renamed to email
+2018-01-05 09:59:34:01S -0500 [INFO] com.cognizant.cognizantits.datalib.component.utils.FileUtils renameFile:/Users/ssmita/workspace/automation/cits/cognizant-intelligent-test-scripter-1.1/Projects/DemoProject/ObjectRepository/temp/email/WObject0 Renamed to email
+2018-01-05 09:59:40:01S -0500 [INFO] com.cognizant.cognizantits.datalib.component.utils.FileUtils renameFile:/Users/ssmita/workspace/automation/cits/cognizant-intelligent-test-scripter-1.1/Projects/DemoProject/ObjectRepository/temp/WObject1 Renamed to go
+2018-01-05 09:59:40:01S -0500 [INFO] com.cognizant.cognizantits.datalib.component.utils.FileUtils renameFile:/Users/ssmita/workspace/automation/cits/cognizant-intelligent-test-scripter-1.1/Projects/DemoProject/ObjectRepository/temp/go/WObject1 Renamed to go
+2018-01-05 10:00:25:01S -0500 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in /Users/ssmita/workspace/automation/cits/cognizant-intelligent-test-scripter-1.1/lib/cognizant-intelligent-test-scripter-engine-1.1.jar
+2018-01-05 10:00:25:318 -0500 [Thread-8] [WARN] com.cognizant.cognizantits.engine.core.TMIntegration - TM integration disabled for testcases running via design mode
+2018-01-05 10:00:40:936 -0500 [Thread-8] [INFO] com.cognizant.cognizantits.engine.support.DesktopApi - Trying to Open - /Users/ssmita/workspace/automation/cits/cognizant-intelligent-test-scripter-1.1/Projects/DemoProject/Results/TestDesign/NewScenario/NewTestCase/05-Jan-2018 10-00-25/summary.html
+2018-01-05 10:00:40:936 -0500 [Thread-8] [INFO] com.cognizant.cognizantits.engine.support.DesktopApi - Trying to exec: [open] [%s] [/Users/ssmita/workspace/automation/cits/cognizant-intelligent-test-scripter-1.1/Projects/DemoProject/Results/TestDesign/NewScenario/NewTestCase/05-Jan-2018 10-00-25/summary.html]
+2018-01-05 10:01:37:254 -0500 [AWT-EventQueue-0] [INFO] org.eclipse.jetty.util.log - Logging initialized @708505ms to org.eclipse.jetty.util.log.Slf4jLog
+jar:file:/Users/ssmita/workspace/automation/cits/cognizant-intelligent-test-scripter-1.1/lib/cognizant-intelligent-test-scripter-extensionconnect-1.1.jar!/localhost
+2018-01-05 10:01:37:01S -0500 [INFO] com.cognizant.cognizantits.extension.server.ExtensionServer startHeal:Launching Server for Heal
+2018-01-05 10:01:37:01S -0500 [INFO] com.cognizant.cognizantits.extension.server.ExtensionServer$1 run:Starting Server
+2018-01-05 10:01:37:349 -0500 [SocketServer] [INFO] org.eclipse.jetty.server.Server - jetty-9.4.5.v20170502
+2018-01-05 10:01:37:380 -0500 [SocketServer] [INFO] org.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0
+2018-01-05 10:01:37:380 -0500 [SocketServer] [INFO] org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
+2018-01-05 10:01:37:383 -0500 [SocketServer] [INFO] org.eclipse.jetty.server.session - Scavenging every 600000ms
+2018-01-05 10:01:37:388 -0500 [SocketServer] [INFO] org.eclipse.jetty.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@2bc2b0e6{/,null,AVAILABLE}
+2018-01-05 10:01:37:421 -0500 [SocketServer] [INFO] org.eclipse.jetty.util.ssl.SslContextFactory - x509=X509@73aff3f6(localhost,h=[localhost],w=[]) for SslContextFactory@36634bfc(jar:file:/Users/ssmita/workspace/automation/cits/cognizant-intelligent-test-scripter-1.1/lib/cognizant-intelligent-test-scripter-extensionconnect-1.1.jar!/localhost,null)
+2018-01-05 10:01:37:458 -0500 [SocketServer] [INFO] org.eclipse.jetty.server.AbstractConnector - Started ServerConnector@6988faf3{SSL,[ssl, http/1.1]}{0.0.0.0:8887}
+2018-01-05 10:01:37:458 -0500 [SocketServer] [INFO] org.eclipse.jetty.server.Server - Started @708710ms
+2018-01-05 10:02:14:727 -0500 [AWT-EventQueue-0] [INFO] org.eclipse.jetty.server.AbstractConnector - Stopped ServerConnector@6988faf3{SSL,[ssl, http/1.1]}{0.0.0.0:8887}
+2018-01-05 10:02:14:728 -0500 [AWT-EventQueue-0] [INFO] org.eclipse.jetty.server.session - Stopped scavenging
+2018-01-05 10:02:14:730 -0500 [AWT-EventQueue-0] [INFO] org.eclipse.jetty.server.handler.ContextHandler - Stopped o.e.j.s.ServletContextHandler@2bc2b0e6{/,null,UNAVAILABLE}
+jar:file:/Users/ssmita/workspace/automation/cits/cognizant-intelligent-test-scripter-1.1/lib/cognizant-intelligent-test-scripter-extensionconnect-1.1.jar!/localhost
+2018-01-05 10:02:14:01S -0500 [INFO] com.cognizant.cognizantits.extension.server.ExtensionServer$1 run:Server Stopped
+jar:file:/Users/ssmita/workspace/automation/cits/cognizant-intelligent-test-scripter-1.1/lib/cognizant-intelligent-test-scripter-extensionconnect-1.1.jar!/localhost
+2018-01-05 10:03:30:01S -0500 [INFO] com.cognizant.cognizantits.extension.server.ExtensionServer startHeal:Launching Server for Heal
+2018-01-05 10:03:30:01S -0500 [INFO] com.cognizant.cognizantits.extension.server.ExtensionServer$1 run:Starting Server
+2018-01-05 10:03:30:301 -0500 [SocketServer] [INFO] org.eclipse.jetty.server.Server - jetty-9.4.5.v20170502
+2018-01-05 10:03:30:302 -0500 [SocketServer] [INFO] org.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0
+2018-01-05 10:03:30:303 -0500 [SocketServer] [INFO] org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
+2018-01-05 10:03:30:303 -0500 [SocketServer] [INFO] org.eclipse.jetty.server.session - Scavenging every 600000ms
+2018-01-05 10:03:30:303 -0500 [SocketServer] [INFO] org.eclipse.jetty.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@112e2736{/,null,AVAILABLE}
+2018-01-05 10:03:30:305 -0500 [SocketServer] [INFO] org.eclipse.jetty.util.ssl.SslContextFactory - x509=X509@43b469f6(localhost,h=[localhost],w=[]) for SslContextFactory@5842e97(jar:file:/Users/ssmita/workspace/automation/cits/cognizant-intelligent-test-scripter-1.1/lib/cognizant-intelligent-test-scripter-extensionconnect-1.1.jar!/localhost,null)
+2018-01-05 10:03:30:307 -0500 [SocketServer] [INFO] org.eclipse.jetty.server.AbstractConnector - Started ServerConnector@5972effa{SSL,[ssl, http/1.1]}{0.0.0.0:8887}
+2018-01-05 10:03:30:307 -0500 [SocketServer] [INFO] org.eclipse.jetty.server.Server - Started @821564ms
+2018-01-05 10:03:32:016 -0500 [AWT-EventQueue-0] [INFO] org.eclipse.jetty.server.AbstractConnector - Stopped ServerConnector@5972effa{SSL,[ssl, http/1.1]}{0.0.0.0:8887}
+2018-01-05 10:03:32:017 -0500 [AWT-EventQueue-0] [INFO] org.eclipse.jetty.server.session - Stopped scavenging
+2018-01-05 10:03:32:017 -0500 [AWT-EventQueue-0] [INFO] org.eclipse.jetty.server.handler.ContextHandler - Stopped o.e.j.s.ServletContextHandler@112e2736{/,null,UNAVAILABLE}
+jar:file:/Users/ssmita/workspace/automation/cits/cognizant-intelligent-test-scripter-1.1/lib/cognizant-intelligent-test-scripter-extensionconnect-1.1.jar!/localhost
+2018-01-05 10:03:32:01S -0500 [INFO] com.cognizant.cognizantits.extension.server.ExtensionServer$1 run:Server Stopped
+jar:file:/Users/ssmita/workspace/automation/cits/cognizant-intelligent-test-scripter-1.1/lib/cognizant-intelligent-test-scripter-extensionconnect-1.1.jar!/localhost
+2018-01-05 10:03:32:01S -0500 [INFO] com.cognizant.cognizantits.extension.server.ExtensionServer startSpy:Launching Server for Spy
+2018-01-05 10:03:32:01S -0500 [INFO] com.cognizant.cognizantits.extension.server.ExtensionServer$1 run:Starting Server
+2018-01-05 10:03:32:750 -0500 [SocketServer] [INFO] org.eclipse.jetty.server.Server - jetty-9.4.5.v20170502
+2018-01-05 10:03:32:751 -0500 [SocketServer] [INFO] org.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0
+2018-01-05 10:03:32:751 -0500 [SocketServer] [INFO] org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
+2018-01-05 10:03:32:751 -0500 [SocketServer] [INFO] org.eclipse.jetty.server.session - Scavenging every 600000ms
+2018-01-05 10:03:32:752 -0500 [SocketServer] [INFO] org.eclipse.jetty.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@6a6eea43{/,null,AVAILABLE}
+2018-01-05 10:03:32:752 -0500 [SocketServer] [INFO] org.eclipse.jetty.util.ssl.SslContextFactory - x509=X509@1078e088(localhost,h=[localhost],w=[]) for SslContextFactory@5cc0bbbd(jar:file:/Users/ssmita/workspace/automation/cits/cognizant-intelligent-test-scripter-1.1/lib/cognizant-intelligent-test-scripter-extensionconnect-1.1.jar!/localhost,null)
+2018-01-05 10:03:32:753 -0500 [SocketServer] [INFO] org.eclipse.jetty.server.AbstractConnector - Started ServerConnector@349aa236{SSL,[ssl, http/1.1]}{0.0.0.0:8887}
+2018-01-05 10:03:32:754 -0500 [SocketServer] [INFO] org.eclipse.jetty.server.Server - Started @824010ms
+2018-01-05 10:03:48:428 -0500 [AWT-EventQueue-0] [INFO] org.eclipse.jetty.server.AbstractConnector - Stopped ServerConnector@349aa236{SSL,[ssl, http/1.1]}{0.0.0.0:8887}
+2018-01-05 10:03:48:428 -0500 [AWT-EventQueue-0] [INFO] org.eclipse.jetty.server.session - Stopped scavenging
+2018-01-05 10:03:48:429 -0500 [AWT-EventQueue-0] [INFO] org.eclipse.jetty.server.handler.ContextHandler - Stopped o.e.j.s.ServletContextHandler@6a6eea43{/,null,UNAVAILABLE}
+jar:file:/Users/ssmita/workspace/automation/cits/cognizant-intelligent-test-scripter-1.1/lib/cognizant-intelligent-test-scripter-extensionconnect-1.1.jar!/localhost
+2018-01-05 10:03:48:01S -0500 [INFO] com.cognizant.cognizantits.extension.server.ExtensionServer$1 run:Server Stopped
+jar:file:/Users/ssmita/workspace/automation/cits/cognizant-intelligent-test-scripter-1.1/lib/cognizant-intelligent-test-scripter-extensionconnect-1.1.jar!/localhost
+2018-01-05 10:03:49:01S -0500 [INFO] com.cognizant.cognizantits.extension.server.ExtensionServer startHeal:Launching Server for Heal
+2018-01-05 10:03:49:01S -0500 [INFO] com.cognizant.cognizantits.extension.server.ExtensionServer$1 run:Starting Server
+2018-01-05 10:03:49:624 -0500 [SocketServer] [INFO] org.eclipse.jetty.server.Server - jetty-9.4.5.v20170502
+2018-01-05 10:03:49:625 -0500 [SocketServer] [INFO] org.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0
+2018-01-05 10:03:49:625 -0500 [SocketServer] [INFO] org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
+2018-01-05 10:03:49:625 -0500 [SocketServer] [INFO] org.eclipse.jetty.server.session - Scavenging every 600000ms
+2018-01-05 10:03:49:625 -0500 [SocketServer] [INFO] org.eclipse.jetty.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@31bf9c9f{/,null,AVAILABLE}
+2018-01-05 10:03:49:626 -0500 [SocketServer] [INFO] org.eclipse.jetty.util.ssl.SslContextFactory - x509=X509@69a491ec(localhost,h=[localhost],w=[]) for SslContextFactory@16767a45(jar:file:/Users/ssmita/workspace/automation/cits/cognizant-intelligent-test-scripter-1.1/lib/cognizant-intelligent-test-scripter-extensionconnect-1.1.jar!/localhost,null)
+2018-01-05 10:03:49:627 -0500 [SocketServer] [INFO] org.eclipse.jetty.server.AbstractConnector - Started ServerConnector@47c8d25f{SSL,[ssl, http/1.1]}{0.0.0.0:8887}
+2018-01-05 10:03:49:627 -0500 [SocketServer] [INFO] org.eclipse.jetty.server.Server - Started @840884ms
+2018-01-05 10:04:23:623 -0500 [AWT-EventQueue-0] [INFO] org.eclipse.jetty.server.AbstractConnector - Stopped ServerConnector@47c8d25f{SSL,[ssl, http/1.1]}{0.0.0.0:8887}
+2018-01-05 10:04:23:624 -0500 [AWT-EventQueue-0] [INFO] org.eclipse.jetty.server.session - Stopped scavenging
+2018-01-05 10:04:23:624 -0500 [AWT-EventQueue-0] [INFO] org.eclipse.jetty.server.handler.ContextHandler - Stopped o.e.j.s.ServletContextHandler@31bf9c9f{/,null,UNAVAILABLE}
+jar:file:/Users/ssmita/workspace/automation/cits/cognizant-intelligent-test-scripter-1.1/lib/cognizant-intelligent-test-scripter-extensionconnect-1.1.jar!/localhost
+2018-01-05 10:04:23:01S -0500 [INFO] com.cognizant.cognizantits.extension.server.ExtensionServer$1 run:Server Stopped
+jar:file:/Users/ssmita/workspace/automation/cits/cognizant-intelligent-test-scripter-1.1/lib/cognizant-intelligent-test-scripter-extensionconnect-1.1.jar!/localhost
+2018-01-05 10:05:22:01S -0500 [INFO] com.cognizant.cognizantits.extension.server.ExtensionServer startHeal:Launching Server for Heal
+2018-01-05 10:05:22:01S -0500 [INFO] com.cognizant.cognizantits.extension.server.ExtensionServer$1 run:Starting Server
+2018-01-05 10:05:22:496 -0500 [SocketServer] [INFO] org.eclipse.jetty.server.Server - jetty-9.4.5.v20170502
+2018-01-05 10:05:22:497 -0500 [SocketServer] [INFO] org.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0
+2018-01-05 10:05:22:497 -0500 [SocketServer] [INFO] org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
+2018-01-05 10:05:22:497 -0500 [SocketServer] [INFO] org.eclipse.jetty.server.session - Scavenging every 600000ms
+2018-01-05 10:05:22:497 -0500 [SocketServer] [INFO] org.eclipse.jetty.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@46687d19{/,null,AVAILABLE}
+2018-01-05 10:05:22:498 -0500 [SocketServer] [INFO] org.eclipse.jetty.util.ssl.SslContextFactory - x509=X509@27c7d8a2(localhost,h=[localhost],w=[]) for SslContextFactory@13c03e8b(jar:file:/Users/ssmita/workspace/automation/cits/cognizant-intelligent-test-scripter-1.1/lib/cognizant-intelligent-test-scripter-extensionconnect-1.1.jar!/localhost,null)
+2018-01-05 10:05:22:499 -0500 [SocketServer] [INFO] org.eclipse.jetty.server.AbstractConnector - Started ServerConnector@3f2c8cd2{SSL,[ssl, http/1.1]}{0.0.0.0:8887}
+2018-01-05 10:05:22:499 -0500 [SocketServer] [INFO] org.eclipse.jetty.server.Server - Started @933760ms
+2018-01-05 10:05:25:594 -0500 [AWT-EventQueue-0] [INFO] org.eclipse.jetty.server.AbstractConnector - Stopped ServerConnector@3f2c8cd2{SSL,[ssl, http/1.1]}{0.0.0.0:8887}
+2018-01-05 10:05:25:595 -0500 [AWT-EventQueue-0] [INFO] org.eclipse.jetty.server.session - Stopped scavenging
+2018-01-05 10:05:25:595 -0500 [AWT-EventQueue-0] [INFO] org.eclipse.jetty.server.handler.ContextHandler - Stopped o.e.j.s.ServletContextHandler@46687d19{/,null,UNAVAILABLE}
+jar:file:/Users/ssmita/workspace/automation/cits/cognizant-intelligent-test-scripter-1.1/lib/cognizant-intelligent-test-scripter-extensionconnect-1.1.jar!/localhost
+2018-01-05 10:05:25:01S -0500 [INFO] com.cognizant.cognizantits.extension.server.ExtensionServer$1 run:Server Stopped
+jar:file:/Users/ssmita/workspace/automation/cits/cognizant-intelligent-test-scripter-1.1/lib/cognizant-intelligent-test-scripter-extensionconnect-1.1.jar!/localhost
+2018-01-05 10:05:28:01S -0500 [INFO] com.cognizant.cognizantits.extension.server.ExtensionServer startHeal:Launching Server for Heal
+2018-01-05 10:05:28:01S -0500 [INFO] com.cognizant.cognizantits.extension.server.ExtensionServer$1 run:Starting Server
+2018-01-05 10:05:28:432 -0500 [SocketServer] [INFO] org.eclipse.jetty.server.Server - jetty-9.4.5.v20170502
+2018-01-05 10:05:28:433 -0500 [SocketServer] [INFO] org.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0
+2018-01-05 10:05:28:433 -0500 [SocketServer] [INFO] org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
+2018-01-05 10:05:28:433 -0500 [SocketServer] [INFO] org.eclipse.jetty.server.session - Scavenging every 600000ms
+2018-01-05 10:05:28:433 -0500 [SocketServer] [INFO] org.eclipse.jetty.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@3f93bc7e{/,null,AVAILABLE}
+2018-01-05 10:05:28:434 -0500 [SocketServer] [INFO] org.eclipse.jetty.util.ssl.SslContextFactory - x509=X509@4e57f09(localhost,h=[localhost],w=[]) for SslContextFactory@2ae8fe0c(jar:file:/Users/ssmita/workspace/automation/cits/cognizant-intelligent-test-scripter-1.1/lib/cognizant-intelligent-test-scripter-extensionconnect-1.1.jar!/localhost,null)
+2018-01-05 10:05:28:435 -0500 [SocketServer] [INFO] org.eclipse.jetty.server.AbstractConnector - Started ServerConnector@7f2188c2{SSL,[ssl, http/1.1]}{0.0.0.0:8887}
+2018-01-05 10:05:28:435 -0500 [SocketServer] [INFO] org.eclipse.jetty.server.Server - Started @939696ms
+2018-01-05 10:07:00:667 -0500 [AWT-EventQueue-0] [INFO] org.eclipse.jetty.server.AbstractConnector - Stopped ServerConnector@7f2188c2{SSL,[ssl, http/1.1]}{0.0.0.0:8887}
+2018-01-05 10:07:00:667 -0500 [AWT-EventQueue-0] [INFO] org.eclipse.jetty.server.session - Stopped scavenging
+2018-01-05 10:07:00:668 -0500 [AWT-EventQueue-0] [INFO] org.eclipse.jetty.server.handler.ContextHandler - Stopped o.e.j.s.ServletContextHandler@3f93bc7e{/,null,UNAVAILABLE}
+jar:file:/Users/ssmita/workspace/automation/cits/cognizant-intelligent-test-scripter-1.1/lib/cognizant-intelligent-test-scripter-extensionconnect-1.1.jar!/localhost
+2018-01-05 10:07:00:01S -0500 [INFO] com.cognizant.cognizantits.extension.server.ExtensionServer$1 run:Server Stopped
+jar:file:/Users/ssmita/workspace/automation/cits/cognizant-intelligent-test-scripter-1.1/lib/cognizant-intelligent-test-scripter-extensionconnect-1.1.jar!/localhost
+2018-01-05 10:07:14:01S -0500 [INFO] com.cognizant.cognizantits.extension.server.ExtensionServer startHeal:Launching Server for Heal
+2018-01-05 10:07:14:01S -0500 [INFO] com.cognizant.cognizantits.extension.server.ExtensionServer$1 run:Starting Server
+2018-01-05 10:07:14:338 -0500 [SocketServer] [INFO] org.eclipse.jetty.server.Server - jetty-9.4.5.v20170502
+2018-01-05 10:07:14:339 -0500 [SocketServer] [INFO] org.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0
+2018-01-05 10:07:14:339 -0500 [SocketServer] [INFO] org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
+2018-01-05 10:07:14:339 -0500 [SocketServer] [INFO] org.eclipse.jetty.server.session - Scavenging every 600000ms
+2018-01-05 10:07:14:340 -0500 [SocketServer] [INFO] org.eclipse.jetty.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@38c701f2{/,null,AVAILABLE}
+2018-01-05 10:07:14:341 -0500 [SocketServer] [INFO] org.eclipse.jetty.util.ssl.SslContextFactory - x509=X509@65d9907d(localhost,h=[localhost],w=[]) for SslContextFactory@7565bb4c(jar:file:/Users/ssmita/workspace/automation/cits/cognizant-intelligent-test-scripter-1.1/lib/cognizant-intelligent-test-scripter-extensionconnect-1.1.jar!/localhost,null)
+2018-01-05 10:07:14:342 -0500 [SocketServer] [INFO] org.eclipse.jetty.server.AbstractConnector - Started ServerConnector@47773bd7{SSL,[ssl, http/1.1]}{0.0.0.0:8887}
+2018-01-05 10:07:14:342 -0500 [SocketServer] [INFO] org.eclipse.jetty.server.Server - Started @1045606ms
+2018-01-05 10:08:03:581 -0500 [AWT-EventQueue-0] [INFO] org.eclipse.jetty.server.AbstractConnector - Stopped ServerConnector@47773bd7{SSL,[ssl, http/1.1]}{0.0.0.0:8887}
+2018-01-05 10:08:03:581 -0500 [AWT-EventQueue-0] [INFO] org.eclipse.jetty.server.session - Stopped scavenging
+2018-01-05 10:08:03:581 -0500 [AWT-EventQueue-0] [INFO] org.eclipse.jetty.server.handler.ContextHandler - Stopped o.e.j.s.ServletContextHandler@38c701f2{/,null,UNAVAILABLE}
+jar:file:/Users/ssmita/workspace/automation/cits/cognizant-intelligent-test-scripter-1.1/lib/cognizant-intelligent-test-scripter-extensionconnect-1.1.jar!/localhost
+2018-01-05 10:08:03:01S -0500 [INFO] com.cognizant.cognizantits.extension.server.ExtensionServer$1 run:Server Stopped
+2018-01-05 10:08:10:01S -0500 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in /Users/ssmita/workspace/automation/cits/cognizant-intelligent-test-scripter-1.1/lib/cognizant-intelligent-test-scripter-engine-1.1.jar
+2018-01-05 10:08:10:045 -0500 [Thread-73] [WARN] com.cognizant.cognizantits.engine.core.TMIntegration - TM integration disabled for testcases running via design mode
+2018-01-05 10:08:14:440 -0500 [Thread-73] [INFO] com.cognizant.cognizantits.engine.support.DesktopApi - Trying to Open - /Users/ssmita/workspace/automation/cits/cognizant-intelligent-test-scripter-1.1/Projects/DemoProject/Results/TestDesign/NewScenario/NewTestCase/05-Jan-2018 10-08-10/summary.html
+2018-01-05 10:08:14:440 -0500 [Thread-73] [INFO] com.cognizant.cognizantits.engine.support.DesktopApi - Trying to exec: [open] [%s] [/Users/ssmita/workspace/automation/cits/cognizant-intelligent-test-scripter-1.1/Projects/DemoProject/Results/TestDesign/NewScenario/NewTestCase/05-Jan-2018 10-08-10/summary.html]
+jar:file:/Users/ssmita/workspace/automation/cits/cognizant-intelligent-test-scripter-1.1/lib/cognizant-intelligent-test-scripter-extensionconnect-1.1.jar!/localhost
+2018-01-05 10:08:58:01S -0500 [INFO] com.cognizant.cognizantits.extension.server.ExtensionServer startSpy:Launching Server for Spy
+2018-01-05 10:08:58:01S -0500 [INFO] com.cognizant.cognizantits.extension.server.ExtensionServer$1 run:Starting Server
+2018-01-05 10:08:58:529 -0500 [SocketServer] [INFO] org.eclipse.jetty.server.Server - jetty-9.4.5.v20170502
+2018-01-05 10:08:58:530 -0500 [SocketServer] [INFO] org.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0
+2018-01-05 10:08:58:530 -0500 [SocketServer] [INFO] org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
+2018-01-05 10:08:58:530 -0500 [SocketServer] [INFO] org.eclipse.jetty.server.session - Scavenging every 660000ms
+2018-01-05 10:08:58:531 -0500 [SocketServer] [INFO] org.eclipse.jetty.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@37af7221{/,null,AVAILABLE}
+2018-01-05 10:08:58:532 -0500 [SocketServer] [INFO] org.eclipse.jetty.util.ssl.SslContextFactory - x509=X509@b5c4961(localhost,h=[localhost],w=[]) for SslContextFactory@6a982821(jar:file:/Users/ssmita/workspace/automation/cits/cognizant-intelligent-test-scripter-1.1/lib/cognizant-intelligent-test-scripter-extensionconnect-1.1.jar!/localhost,null)
+2018-01-05 10:08:58:532 -0500 [SocketServer] [INFO] org.eclipse.jetty.server.AbstractConnector - Started ServerConnector@38fc0303{SSL,[ssl, http/1.1]}{0.0.0.0:8887}
+2018-01-05 10:08:58:532 -0500 [SocketServer] [INFO] org.eclipse.jetty.server.Server - Started @1149801ms
+2018-01-05 10:09:40:382 -0500 [AWT-EventQueue-0] [INFO] org.eclipse.jetty.server.AbstractConnector - Stopped ServerConnector@38fc0303{SSL,[ssl, http/1.1]}{0.0.0.0:8887}
+2018-01-05 10:09:40:383 -0500 [AWT-EventQueue-0] [INFO] org.eclipse.jetty.server.session - Stopped scavenging
+2018-01-05 10:09:40:384 -0500 [AWT-EventQueue-0] [INFO] org.eclipse.jetty.server.handler.ContextHandler - Stopped o.e.j.s.ServletContextHandler@37af7221{/,null,UNAVAILABLE}
+jar:file:/Users/ssmita/workspace/automation/cits/cognizant-intelligent-test-scripter-1.1/lib/cognizant-intelligent-test-scripter-extensionconnect-1.1.jar!/localhost
+2018-01-05 10:09:40:01S -0500 [INFO] com.cognizant.cognizantits.extension.server.ExtensionServer$1 run:Server Stopped
+2018-01-05 10:09:57:01S -0500 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in /Users/ssmita/workspace/automation/cits/cognizant-intelligent-test-scripter-1.1/lib/cognizant-intelligent-test-scripter-engine-1.1.jar
+2018-01-05 10:09:57:563 -0500 [Thread-86] [WARN] com.cognizant.cognizantits.engine.core.TMIntegration - TM integration disabled for testcases running via design mode
+2018-01-05 10:10:03:167 -0500 [Thread-86] [INFO] com.cognizant.cognizantits.engine.support.DesktopApi - Trying to Open - /Users/ssmita/workspace/automation/cits/cognizant-intelligent-test-scripter-1.1/Projects/DemoProject/Results/TestDesign/NewScenario/NewTestCase/05-Jan-2018 10-09-57/summary.html
+2018-01-05 10:10:03:167 -0500 [Thread-86] [INFO] com.cognizant.cognizantits.engine.support.DesktopApi - Trying to exec: [open] [%s] [/Users/ssmita/workspace/automation/cits/cognizant-intelligent-test-scripter-1.1/Projects/DemoProject/Results/TestDesign/NewScenario/NewTestCase/05-Jan-2018 10-09-57/summary.html]
+2018-01-05 10:11:00:01S -0500 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in /Users/ssmita/workspace/automation/cits/cognizant-intelligent-test-scripter-1.1/lib/cognizant-intelligent-test-scripter-engine-1.1.jar
+2018-01-05 10:11:00:909 -0500 [Thread-89] [WARN] com.cognizant.cognizantits.engine.core.TMIntegration - TM integration disabled for testcases running via design mode
+2018-01-05 10:11:08:457 -0500 [Thread-89] [INFO] com.cognizant.cognizantits.engine.support.DesktopApi - Trying to Open - /Users/ssmita/workspace/automation/cits/cognizant-intelligent-test-scripter-1.1/Projects/DemoProject/Results/TestDesign/NewScenario/NewTestCase/05-Jan-2018 10-11-00/summary.html
+2018-01-05 10:11:08:457 -0500 [Thread-89] [INFO] com.cognizant.cognizantits.engine.support.DesktopApi - Trying to exec: [open] [%s] [/Users/ssmita/workspace/automation/cits/cognizant-intelligent-test-scripter-1.1/Projects/DemoProject/Results/TestDesign/NewScenario/NewTestCase/05-Jan-2018 10-11-00/summary.html]
+2018-01-05 10:11:14:01S -0500 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in /Users/ssmita/workspace/automation/cits/cognizant-intelligent-test-scripter-1.1/lib/cognizant-intelligent-test-scripter-engine-1.1.jar
+2018-01-05 10:11:14:858 -0500 [Thread-91] [WARN] com.cognizant.cognizantits.engine.core.TMIntegration - TM integration disabled for testcases running via design mode
+2018-01-05 10:11:20:697 -0500 [Thread-91] [INFO] com.cognizant.cognizantits.engine.support.DesktopApi - Trying to Open - /Users/ssmita/workspace/automation/cits/cognizant-intelligent-test-scripter-1.1/Projects/DemoProject/Results/TestDesign/NewScenario/NewTestCase/05-Jan-2018 10-11-14/summary.html
+2018-01-05 10:11:20:697 -0500 [Thread-91] [INFO] com.cognizant.cognizantits.engine.support.DesktopApi - Trying to exec: [open] [%s] [/Users/ssmita/workspace/automation/cits/cognizant-intelligent-test-scripter-1.1/Projects/DemoProject/Results/TestDesign/NewScenario/NewTestCase/05-Jan-2018 10-11-14/summary.html]
+2018-01-05 10:12:10:01S -0500 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in /Users/ssmita/workspace/automation/cits/cognizant-intelligent-test-scripter-1.1/lib/cognizant-intelligent-test-scripter-engine-1.1.jar
+2018-01-05 10:12:10:897 -0500 [Thread-93] [WARN] com.cognizant.cognizantits.engine.core.TMIntegration - TM integration disabled for testcases running via design mode
+2018-01-05 10:12:19:023 -0500 [Thread-93] [INFO] com.cognizant.cognizantits.engine.support.DesktopApi - Trying to Open - /Users/ssmita/workspace/automation/cits/cognizant-intelligent-test-scripter-1.1/Projects/DemoProject/Results/TestDesign/NewScenario/NewTestCase/05-Jan-2018 10-12-10/summary.html
+2018-01-05 10:12:19:023 -0500 [Thread-93] [INFO] com.cognizant.cognizantits.engine.support.DesktopApi - Trying to exec: [open] [%s] [/Users/ssmita/workspace/automation/cits/cognizant-intelligent-test-scripter-1.1/Projects/DemoProject/Results/TestDesign/NewScenario/NewTestCase/05-Jan-2018 10-12-10/summary.html]
+2018-01-05 10:12:35:01S -0500 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in /Users/ssmita/workspace/automation/cits/cognizant-intelligent-test-scripter-1.1/lib/cognizant-intelligent-test-scripter-engine-1.1.jar
+2018-01-05 10:12:35:007 -0500 [Thread-95] [WARN] com.cognizant.cognizantits.engine.core.TMIntegration - TM integration disabled for testcases running via design mode
+2018-01-05 10:12:43:320 -0500 [Thread-95] [INFO] com.cognizant.cognizantits.engine.support.DesktopApi - Trying to Open - /Users/ssmita/workspace/automation/cits/cognizant-intelligent-test-scripter-1.1/Projects/DemoProject/Results/TestDesign/NewScenario/NewTestCase/05-Jan-2018 10-12-34/summary.html
+2018-01-05 10:12:43:320 -0500 [Thread-95] [INFO] com.cognizant.cognizantits.engine.support.DesktopApi - Trying to exec: [open] [%s] [/Users/ssmita/workspace/automation/cits/cognizant-intelligent-test-scripter-1.1/Projects/DemoProject/Results/TestDesign/NewScenario/NewTestCase/05-Jan-2018 10-12-34/summary.html]
+2018-01-05 10:15:17:01S -0500 [INFO] com.cognizant.cognizantits.datalib.component.utils.FileUtils renameFile:/Users/ssmita/workspace/automation/cits/cognizant-intelligent-test-scripter-1.1/Projects/DemoProject/TestPlan/eCommerce/TC2_Invalid_Payment_Type.csv Renamed to TC2_AddToCart.csv
+2018-01-05 10:15:17:01S -0500 [INFO] com.cognizant.cognizantits.datalib.component.Project refactorTestCase:Refactoring started for TestCase [TC2_Invalid_Payment_Type] to [TC2_AddToCart]
+2018-01-05 10:15:17:01S -0500 [INFO] com.cognizant.cognizantits.datalib.component.Project refactorTestCase:Refactoring done for TestCase [TC2_Invalid_Payment_Type] to [TC2_AddToCart]
+2018-01-05 10:50:47:01S -0500 [SEVERE] com.cognizant.cognizantits.datalib.component.utils.FileUtils getRecords:File [/Users/ssmita/workspace/automation/cits/cognizant-intelligent-test-scripter-1.1/Projects/DemoProject/TestPlan/NewScenario/NewTestCase0.csv] doesn't exist
+2018-01-05 10:52:31:387 -0500 [AWT-EventQueue-0] [INFO] com.cognizant.cognizantits.engine.support.DesktopApi - Trying to Open - /Users/ssmita/workspace/automation/cits/cognizant-intelligent-test-scripter-1.1/Projects/DemoProject/TestData/GlobalData.csv
+2018-01-05 10:52:31:387 -0500 [AWT-EventQueue-0] [INFO] com.cognizant.cognizantits.engine.support.DesktopApi - Trying to exec: [open] [%s] [/Users/ssmita/workspace/automation/cits/cognizant-intelligent-test-scripter-1.1/Projects/DemoProject/TestData/GlobalData.csv]
+jar:file:/Users/ssmita/workspace/automation/cits/cognizant-intelligent-test-scripter-1.1/lib/cognizant-intelligent-test-scripter-extensionconnect-1.1.jar!/localhost
+2018-01-05 10:56:00:01S -0500 [INFO] com.cognizant.cognizantits.extension.server.ExtensionServer startSpy:Launching Server for Spy
+2018-01-05 10:56:00:01S -0500 [INFO] com.cognizant.cognizantits.extension.server.ExtensionServer$1 run:Starting Server
+2018-01-05 10:56:00:143 -0500 [SocketServer] [INFO] org.eclipse.jetty.server.Server - jetty-9.4.5.v20170502
+2018-01-05 10:56:00:145 -0500 [SocketServer] [INFO] org.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0
+2018-01-05 10:56:00:145 -0500 [SocketServer] [INFO] org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
+2018-01-05 10:56:00:145 -0500 [SocketServer] [INFO] org.eclipse.jetty.server.session - Scavenging every 600000ms
+2018-01-05 10:56:00:145 -0500 [SocketServer] [INFO] org.eclipse.jetty.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@40ab22a0{/,null,AVAILABLE}
+2018-01-05 10:56:00:147 -0500 [SocketServer] [INFO] org.eclipse.jetty.util.ssl.SslContextFactory - x509=X509@7262df0a(localhost,h=[localhost],w=[]) for SslContextFactory@64418b93(jar:file:/Users/ssmita/workspace/automation/cits/cognizant-intelligent-test-scripter-1.1/lib/cognizant-intelligent-test-scripter-extensionconnect-1.1.jar!/localhost,null)
+2018-01-05 10:56:00:147 -0500 [SocketServer] [INFO] org.eclipse.jetty.server.AbstractConnector - Started ServerConnector@5c533b5f{SSL,[ssl, http/1.1]}{0.0.0.0:8887}
+2018-01-05 10:56:00:147 -0500 [SocketServer] [INFO] org.eclipse.jetty.server.Server - Started @3971517ms
+2018-01-05 10:56:07:834 -0500 [AWT-EventQueue-0] [INFO] org.eclipse.jetty.server.AbstractConnector - Stopped ServerConnector@5c533b5f{SSL,[ssl, http/1.1]}{0.0.0.0:8887}
+2018-01-05 10:56:07:834 -0500 [AWT-EventQueue-0] [INFO] org.eclipse.jetty.server.session - Stopped scavenging
+2018-01-05 10:56:07:835 -0500 [AWT-EventQueue-0] [INFO] org.eclipse.jetty.server.handler.ContextHandler - Stopped o.e.j.s.ServletContextHandler@40ab22a0{/,null,UNAVAILABLE}
+2018-01-05 10:56:07:01S -0500 [INFO] com.cognizant.cognizantits.extension.server.ExtensionServer$1 run:Server Stopped
+jar:file:/Users/ssmita/workspace/automation/cits/cognizant-intelligent-test-scripter-1.1/lib/cognizant-intelligent-test-scripter-extensionconnect-1.1.jar!/localhost
+jar:file:/Users/ssmita/workspace/automation/cits/cognizant-intelligent-test-scripter-1.1/lib/cognizant-intelligent-test-scripter-extensionconnect-1.1.jar!/localhost
+2018-01-05 10:58:46:01S -0500 [INFO] com.cognizant.cognizantits.extension.server.ExtensionServer startSpy:Launching Server for Spy
+2018-01-05 10:58:46:01S -0500 [INFO] com.cognizant.cognizantits.extension.server.ExtensionServer$1 run:Starting Server
+2018-01-05 10:58:46:294 -0500 [SocketServer] [INFO] org.eclipse.jetty.server.Server - jetty-9.4.5.v20170502
+2018-01-05 10:58:46:295 -0500 [SocketServer] [INFO] org.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0
+2018-01-05 10:58:46:295 -0500 [SocketServer] [INFO] org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
+2018-01-05 10:58:46:295 -0500 [SocketServer] [INFO] org.eclipse.jetty.server.session - Scavenging every 600000ms
+2018-01-05 10:58:46:295 -0500 [SocketServer] [INFO] org.eclipse.jetty.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@63677479{/,null,AVAILABLE}
+2018-01-05 10:58:46:296 -0500 [SocketServer] [INFO] org.eclipse.jetty.util.ssl.SslContextFactory - x509=X509@78d85d86(localhost,h=[localhost],w=[]) for SslContextFactory@7ce8ff22(jar:file:/Users/ssmita/workspace/automation/cits/cognizant-intelligent-test-scripter-1.1/lib/cognizant-intelligent-test-scripter-extensionconnect-1.1.jar!/localhost,null)
+2018-01-05 10:58:46:297 -0500 [SocketServer] [INFO] org.eclipse.jetty.server.AbstractConnector - Started ServerConnector@680da9ba{SSL,[ssl, http/1.1]}{0.0.0.0:8887}
+2018-01-05 10:58:46:297 -0500 [SocketServer] [INFO] org.eclipse.jetty.server.Server - Started @4137673ms
+2018-01-05 10:59:10:837 -0500 [AWT-EventQueue-0] [INFO] org.eclipse.jetty.server.AbstractConnector - Stopped ServerConnector@680da9ba{SSL,[ssl, http/1.1]}{0.0.0.0:8887}
+2018-01-05 10:59:10:837 -0500 [AWT-EventQueue-0] [INFO] org.eclipse.jetty.server.session - Stopped scavenging
+2018-01-05 10:59:10:838 -0500 [AWT-EventQueue-0] [INFO] org.eclipse.jetty.server.handler.ContextHandler - Stopped o.e.j.s.ServletContextHandler@63677479{/,null,UNAVAILABLE}
+2018-01-05 10:59:10:01S -0500 [INFO] com.cognizant.cognizantits.extension.server.ExtensionServer$1 run:Server Stopped
+jar:file:/Users/ssmita/workspace/automation/cits/cognizant-intelligent-test-scripter-1.1/lib/cognizant-intelligent-test-scripter-extensionconnect-1.1.jar!/localhost
+jar:file:/Users/ssmita/workspace/automation/cits/cognizant-intelligent-test-scripter-1.1/lib/cognizant-intelligent-test-scripter-extensionconnect-1.1.jar!/localhost
+2018-01-05 10:59:27:01S -0500 [INFO] com.cognizant.cognizantits.extension.server.ExtensionServer startSpy:Launching Server for Spy
+2018-01-05 10:59:27:01S -0500 [INFO] com.cognizant.cognizantits.extension.server.ExtensionServer$1 run:Starting Server
+2018-01-05 10:59:27:547 -0500 [SocketServer] [INFO] org.eclipse.jetty.server.Server - jetty-9.4.5.v20170502
+2018-01-05 10:59:27:548 -0500 [SocketServer] [INFO] org.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0
+2018-01-05 10:59:27:548 -0500 [SocketServer] [INFO] org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
+2018-01-05 10:59:27:548 -0500 [SocketServer] [INFO] org.eclipse.jetty.server.session - Scavenging every 660000ms
+2018-01-05 10:59:27:548 -0500 [SocketServer] [INFO] org.eclipse.jetty.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@76f66aa4{/,null,AVAILABLE}
+2018-01-05 10:59:27:549 -0500 [SocketServer] [INFO] org.eclipse.jetty.util.ssl.SslContextFactory - x509=X509@66c96590(localhost,h=[localhost],w=[]) for SslContextFactory@8c005dc(jar:file:/Users/ssmita/workspace/automation/cits/cognizant-intelligent-test-scripter-1.1/lib/cognizant-intelligent-test-scripter-extensionconnect-1.1.jar!/localhost,null)
+2018-01-05 10:59:27:550 -0500 [SocketServer] [INFO] org.eclipse.jetty.server.AbstractConnector - Started ServerConnector@24970ce3{SSL,[ssl, http/1.1]}{0.0.0.0:8887}
+2018-01-05 10:59:27:550 -0500 [SocketServer] [INFO] org.eclipse.jetty.server.Server - Started @4178927ms
+2018-01-05 11:00:07:815 -0500 [AWT-EventQueue-0] [INFO] org.eclipse.jetty.server.AbstractConnector - Stopped ServerConnector@24970ce3{SSL,[ssl, http/1.1]}{0.0.0.0:8887}
+2018-01-05 11:00:07:816 -0500 [AWT-EventQueue-0] [INFO] org.eclipse.jetty.server.session - Stopped scavenging
+2018-01-05 11:00:07:816 -0500 [AWT-EventQueue-0] [INFO] org.eclipse.jetty.server.handler.ContextHandler - Stopped o.e.j.s.ServletContextHandler@76f66aa4{/,null,UNAVAILABLE}
+2018-01-05 11:00:07:01S -0500 [INFO] com.cognizant.cognizantits.extension.server.ExtensionServer$1 run:Server Stopped
+jar:file:/Users/ssmita/workspace/automation/cits/cognizant-intelligent-test-scripter-1.1/lib/cognizant-intelligent-test-scripter-extensionconnect-1.1.jar!/localhost
+jar:file:/Users/ssmita/workspace/automation/cits/cognizant-intelligent-test-scripter-1.1/lib/cognizant-intelligent-test-scripter-extensionconnect-1.1.jar!/localhost
+2018-01-05 11:00:10:01S -0500 [INFO] com.cognizant.cognizantits.extension.server.ExtensionServer startHeal:Launching Server for Heal
+2018-01-05 11:00:10:01S -0500 [INFO] com.cognizant.cognizantits.extension.server.ExtensionServer$1 run:Starting Server
+2018-01-05 11:00:10:563 -0500 [SocketServer] [INFO] org.eclipse.jetty.server.Server - jetty-9.4.5.v20170502
+2018-01-05 11:00:10:565 -0500 [SocketServer] [INFO] org.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0
+2018-01-05 11:00:10:565 -0500 [SocketServer] [INFO] org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
+2018-01-05 11:00:10:565 -0500 [SocketServer] [INFO] org.eclipse.jetty.server.session - Scavenging every 600000ms
+2018-01-05 11:00:10:565 -0500 [SocketServer] [INFO] org.eclipse.jetty.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@15e7c3bb{/,null,AVAILABLE}
+2018-01-05 11:00:10:566 -0500 [SocketServer] [INFO] org.eclipse.jetty.util.ssl.SslContextFactory - x509=X509@40b1815d(localhost,h=[localhost],w=[]) for SslContextFactory@516e2db8(jar:file:/Users/ssmita/workspace/automation/cits/cognizant-intelligent-test-scripter-1.1/lib/cognizant-intelligent-test-scripter-extensionconnect-1.1.jar!/localhost,null)
+2018-01-05 11:00:10:567 -0500 [SocketServer] [INFO] org.eclipse.jetty.server.AbstractConnector - Started ServerConnector@74e9d8a9{SSL,[ssl, http/1.1]}{0.0.0.0:8887}
+2018-01-05 11:00:10:567 -0500 [SocketServer] [INFO] org.eclipse.jetty.server.Server - Started @4221946ms
+2018-01-05 11:00:52:990 -0500 [AWT-EventQueue-0] [INFO] org.eclipse.jetty.server.AbstractConnector - Stopped ServerConnector@74e9d8a9{SSL,[ssl, http/1.1]}{0.0.0.0:8887}
+2018-01-05 11:00:52:990 -0500 [AWT-EventQueue-0] [INFO] org.eclipse.jetty.server.session - Stopped scavenging
+2018-01-05 11:00:52:991 -0500 [AWT-EventQueue-0] [INFO] org.eclipse.jetty.server.handler.ContextHandler - Stopped o.e.j.s.ServletContextHandler@15e7c3bb{/,null,UNAVAILABLE}
+jar:file:/Users/ssmita/workspace/automation/cits/cognizant-intelligent-test-scripter-1.1/lib/cognizant-intelligent-test-scripter-extensionconnect-1.1.jar!/localhost
+2018-01-05 11:00:52:01S -0500 [INFO] com.cognizant.cognizantits.extension.server.ExtensionServer$1 run:Server Stopped
+jar:file:/Users/ssmita/workspace/automation/cits/cognizant-intelligent-test-scripter-1.1/lib/cognizant-intelligent-test-scripter-extensionconnect-1.1.jar!/localhost
+2018-01-05 11:01:08:01S -0500 [INFO] com.cognizant.cognizantits.extension.server.ExtensionServer startRecord:Launching Server for Record
+2018-01-05 11:01:08:01S -0500 [INFO] com.cognizant.cognizantits.extension.server.ExtensionServer$1 run:Starting Server
+2018-01-05 11:01:08:630 -0500 [SocketServer] [INFO] org.eclipse.jetty.server.Server - jetty-9.4.5.v20170502
+2018-01-05 11:01:08:631 -0500 [SocketServer] [INFO] org.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0
+2018-01-05 11:01:08:631 -0500 [SocketServer] [INFO] org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
+2018-01-05 11:01:08:631 -0500 [SocketServer] [INFO] org.eclipse.jetty.server.session - Scavenging every 600000ms
+2018-01-05 11:01:08:632 -0500 [SocketServer] [INFO] org.eclipse.jetty.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@3ec87b26{/,null,AVAILABLE}
+2018-01-05 11:01:08:633 -0500 [SocketServer] [INFO] org.eclipse.jetty.util.ssl.SslContextFactory - x509=X509@1c973a9a(localhost,h=[localhost],w=[]) for SslContextFactory@5f3bec56(jar:file:/Users/ssmita/workspace/automation/cits/cognizant-intelligent-test-scripter-1.1/lib/cognizant-intelligent-test-scripter-extensionconnect-1.1.jar!/localhost,null)
+2018-01-05 11:01:08:634 -0500 [SocketServer] [INFO] org.eclipse.jetty.server.AbstractConnector - Started ServerConnector@394b0fb{SSL,[ssl, http/1.1]}{0.0.0.0:8887}
+2018-01-05 11:01:08:634 -0500 [SocketServer] [INFO] org.eclipse.jetty.server.Server - Started @4280015ms
+2018-01-05 11:01:17:01S -0500 [WARNING] com.cognizant.cognizantits.ide.main.shr.web.Recorder saveObjectToPage:Object Already Present
+Page : The
+Object : headerSearch
+2018-01-05 11:01:17:01S -0500 [INFO] com.cognizant.cognizantits.ide.main.shr.web.Recorder addAsStep:Object[headerSearch] - Click - null
+2018-01-05 11:01:21:01S -0500 [WARNING] com.cognizant.cognizantits.ide.main.shr.web.Recorder saveObjectToPage:Object Already Present
+Page : The
+Object : headerSearch
+2018-01-05 11:01:21:01S -0500 [INFO] com.cognizant.cognizantits.ide.main.shr.web.Recorder addAsStep:Object[headerSearch] - Set - @hammer
+2018-01-05 11:01:21:01S -0500 [WARNING] com.cognizant.cognizantits.ide.main.shr.web.Recorder saveObjectToPage:Object Already Present
+Page : The
+Object : headerSearch
+2018-01-05 11:01:21:01S -0500 [INFO] com.cognizant.cognizantits.ide.main.shr.web.Recorder addAsStep:Object[headerSearch] - Set - @hammer
+2018-01-05 11:01:21:01S -0500 [INFO] com.cognizant.cognizantits.ide.main.shr.web.Recorder saveObjectToPage:Object Added : [object SVGAnimatedString]
+2018-01-05 11:01:21:01S -0500 [INFO] com.cognizant.cognizantits.ide.main.shr.web.Recorder addAsStep:Object[[object SVGAnimatedString]] - Click - null
+2018-01-05 11:01:26:01S -0500 [WARNING] com.cognizant.cognizantits.ide.main.shr.web.Recorder saveObjectToPage:Object Already Present
+Page : Search
+Object : 20 oz. Hammer
+2018-01-05 11:01:26:01S -0500 [INFO] com.cognizant.cognizantits.ide.main.shr.web.Recorder addAsStep:Object[20 oz. Hammer] - Click - null
+2018-01-05 11:01:32:01S -0500 [WARNING] com.cognizant.cognizantits.ide.main.shr.web.Recorder saveObjectToPage:Object Already Present
+Page : DEWALT
+Object : name205594063
+2018-01-05 11:01:32:01S -0500 [INFO] com.cognizant.cognizantits.ide.main.shr.web.Recorder addAsStep:Object[name205594063] - Click - null
+2018-01-05 11:01:32:01S -0500 [WARNING] com.cognizant.cognizantits.ide.main.shr.web.Recorder saveObjectToPage:Object Already Present
+Page : DEWALT
+Object : name2055940631
+2018-01-05 11:01:32:01S -0500 [INFO] com.cognizant.cognizantits.ide.main.shr.web.Recorder addAsStep:Object[name2055940631] - Click - null
+2018-01-05 11:01:33:01S -0500 [WARNING] com.cognizant.cognizantits.ide.main.shr.web.Recorder saveObjectToPage:Object Already Present
+Page : DEWALT
+Object : Add to Cart
+2018-01-05 11:01:33:01S -0500 [INFO] com.cognizant.cognizantits.ide.main.shr.web.Recorder addAsStep:Object[Add to Cart] - Click - null
+2018-01-05 11:01:39:950 -0500 [AWT-EventQueue-0] [INFO] org.eclipse.jetty.server.AbstractConnector - Stopped ServerConnector@394b0fb{SSL,[ssl, http/1.1]}{0.0.0.0:8887}
+2018-01-05 11:01:39:950 -0500 [AWT-EventQueue-0] [INFO] org.eclipse.jetty.server.session - Stopped scavenging
+2018-01-05 11:01:39:951 -0500 [AWT-EventQueue-0] [INFO] org.eclipse.jetty.server.handler.ContextHandler - Stopped o.e.j.s.ServletContextHandler@3ec87b26{/,null,UNAVAILABLE}
+2018-01-05 11:01:39:01S -0500 [INFO] com.cognizant.cognizantits.extension.server.ExtensionServer$1 run:Server Stopped
+jar:file:/Users/ssmita/workspace/automation/cits/cognizant-intelligent-test-scripter-1.1/lib/cognizant-intelligent-test-scripter-extensionconnect-1.1.jar!/localhost
+2018-01-05 11:02:36:01S -0500 [SEVERE] com.cognizant.cognizantits.datalib.component.utils.FileUtils getRecords:File [/Users/ssmita/workspace/automation/cits/cognizant-intelligent-test-scripter-1.1/Projects/DemoProject/TestPlan/NewScenario/NewTestCase1.csv] doesn't exist
+2018-01-05 11:02:44:01S -0500 [INFO] com.cognizant.cognizantits.datalib.component.utils.FileUtils renameFile:/Users/ssmita/workspace/automation/cits/cognizant-intelligent-test-scripter-1.1/Projects/DemoProject/TestPlan/NewScenario/NewTestCase1.csv Renamed to signup-site.csv
+2018-01-05 11:02:44:01S -0500 [INFO] com.cognizant.cognizantits.datalib.component.Project refactorTestCase:Refactoring started for TestCase [NewTestCase1] to [signup-site]
+2018-01-05 11:02:44:01S -0500 [INFO] com.cognizant.cognizantits.datalib.component.Project refactorTestCase:Refactoring done for TestCase [NewTestCase1] to [signup-site]
+2018-01-05 11:03:04:01S -0500 [INFO] com.cognizant.cognizantits.datalib.component.utils.FileUtils renameFile:/Users/ssmita/workspace/automation/cits/cognizant-intelligent-test-scripter-1.1/Projects/DemoProject/ObjectRepository/WPage0 Renamed to singup
+2018-01-05 11:03:48:01S -0500 [INFO] com.cognizant.cognizantits.datalib.component.utils.FileUtils renameFile:/Users/ssmita/workspace/automation/cits/cognizant-intelligent-test-scripter-1.1/Projects/DemoProject/ObjectRepository/singup/WObject0 Renamed to email
+2018-01-05 11:03:48:01S -0500 [INFO] com.cognizant.cognizantits.datalib.component.utils.FileUtils renameFile:/Users/ssmita/workspace/automation/cits/cognizant-intelligent-test-scripter-1.1/Projects/DemoProject/ObjectRepository/singup/email/WObject0 Renamed to email
+2018-01-05 11:03:54:01S -0500 [INFO] com.cognizant.cognizantits.datalib.component.utils.FileUtils renameFile:/Users/ssmita/workspace/automation/cits/cognizant-intelligent-test-scripter-1.1/Projects/DemoProject/ObjectRepository/singup/WObject1 Renamed to gobutton
+2018-01-05 11:03:54:01S -0500 [INFO] com.cognizant.cognizantits.datalib.component.utils.FileUtils renameFile:/Users/ssmita/workspace/automation/cits/cognizant-intelligent-test-scripter-1.1/Projects/DemoProject/ObjectRepository/singup/gobutton/WObject1 Renamed to gobutton
+2018-01-05 11:06:16:01S -0500 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in /Users/ssmita/workspace/automation/cits/cognizant-intelligent-test-scripter-1.1/lib/cognizant-intelligent-test-scripter-engine-1.1.jar
+2018-01-05 11:06:16:658 -0500 [Thread-145] [WARN] com.cognizant.cognizantits.engine.core.TMIntegration - TM integration disabled for testcases running via design mode
+2018-01-05 11:06:42:542 -0500 [Thread-145] [INFO] com.cognizant.cognizantits.engine.support.DesktopApi - Trying to Open - /Users/ssmita/workspace/automation/cits/cognizant-intelligent-test-scripter-1.1/Projects/DemoProject/Results/TestDesign/NewScenario/signup-site/05-Jan-2018 11-06-16/summary.html
+2018-01-05 11:06:42:543 -0500 [Thread-145] [INFO] com.cognizant.cognizantits.engine.support.DesktopApi - Trying to exec: [open] [%s] [/Users/ssmita/workspace/automation/cits/cognizant-intelligent-test-scripter-1.1/Projects/DemoProject/Results/TestDesign/NewScenario/signup-site/05-Jan-2018 11-06-16/summary.html]
+jar:file:/Users/ssmita/workspace/automation/cits/cognizant-intelligent-test-scripter-1.1/lib/cognizant-intelligent-test-scripter-extensionconnect-1.1.jar!/localhost
+2018-01-05 11:07:46:01S -0500 [INFO] com.cognizant.cognizantits.extension.server.ExtensionServer startHeal:Launching Server for Heal
+2018-01-05 11:07:46:01S -0500 [INFO] com.cognizant.cognizantits.extension.server.ExtensionServer$1 run:Starting Server
+2018-01-05 11:07:46:337 -0500 [SocketServer] [INFO] org.eclipse.jetty.server.Server - jetty-9.4.5.v20170502
+2018-01-05 11:07:46:338 -0500 [SocketServer] [INFO] org.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0
+2018-01-05 11:07:46:338 -0500 [SocketServer] [INFO] org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
+2018-01-05 11:07:46:338 -0500 [SocketServer] [INFO] org.eclipse.jetty.server.session - Scavenging every 660000ms
+2018-01-05 11:07:46:339 -0500 [SocketServer] [INFO] org.eclipse.jetty.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@37bcdff9{/,null,AVAILABLE}
+2018-01-05 11:07:46:340 -0500 [SocketServer] [INFO] org.eclipse.jetty.util.ssl.SslContextFactory - x509=X509@12df0803(localhost,h=[localhost],w=[]) for SslContextFactory@4df7030f(jar:file:/Users/ssmita/workspace/automation/cits/cognizant-intelligent-test-scripter-1.1/lib/cognizant-intelligent-test-scripter-extensionconnect-1.1.jar!/localhost,null)
+2018-01-05 11:07:46:341 -0500 [SocketServer] [INFO] org.eclipse.jetty.server.AbstractConnector - Started ServerConnector@116a4bf2{SSL,[ssl, http/1.1]}{0.0.0.0:8887}
+2018-01-05 11:07:46:341 -0500 [SocketServer] [INFO] org.eclipse.jetty.server.Server - Started @4677736ms
+2018-01-05 11:08:56:323 -0500 [AWT-EventQueue-0] [INFO] org.eclipse.jetty.server.AbstractConnector - Stopped ServerConnector@116a4bf2{SSL,[ssl, http/1.1]}{0.0.0.0:8887}
+2018-01-05 11:08:56:324 -0500 [AWT-EventQueue-0] [INFO] org.eclipse.jetty.server.session - Stopped scavenging
+2018-01-05 11:08:56:324 -0500 [AWT-EventQueue-0] [INFO] org.eclipse.jetty.server.handler.ContextHandler - Stopped o.e.j.s.ServletContextHandler@37bcdff9{/,null,UNAVAILABLE}
+jar:file:/Users/ssmita/workspace/automation/cits/cognizant-intelligent-test-scripter-1.1/lib/cognizant-intelligent-test-scripter-extensionconnect-1.1.jar!/localhost2018-01-05 11:08:56:01S -0500 [INFO] com.cognizant.cognizantits.extension.server.ExtensionServer$1 run:Server Stopped
+
+2018-01-05 11:09:18:01S -0500 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in /Users/ssmita/workspace/automation/cits/cognizant-intelligent-test-scripter-1.1/lib/cognizant-intelligent-test-scripter-engine-1.1.jar
+2018-01-05 11:09:18:118 -0500 [Thread-157] [WARN] com.cognizant.cognizantits.engine.core.TMIntegration - TM integration disabled for testcases running via design mode
+2018-01-05 11:09:22:117 -0500 [Thread-157] [INFO] com.cognizant.cognizantits.engine.support.DesktopApi - Trying to Open - /Users/ssmita/workspace/automation/cits/cognizant-intelligent-test-scripter-1.1/Projects/DemoProject/Results/TestDesign/NewScenario/signup-site/05-Jan-2018 11-09-18/summary.html
+2018-01-05 11:09:22:117 -0500 [Thread-157] [INFO] com.cognizant.cognizantits.engine.support.DesktopApi - Trying to exec: [open] [%s] [/Users/ssmita/workspace/automation/cits/cognizant-intelligent-test-scripter-1.1/Projects/DemoProject/Results/TestDesign/NewScenario/signup-site/05-Jan-2018 11-09-18/summary.html]
+2018-01-05 11:11:45:01S -0500 [SEVERE] com.cognizant.cognizantits.datalib.component.utils.FileUtils getRecords:File [/Users/ssmita/workspace/automation/cits/cognizant-intelligent-test-scripter-1.1/Projects/DemoProject/TestPlan/ExploratoryScenario/New TestCase_Jan_05_18_11_11_45.csv] doesn't exist
+2018-01-05 11:23:00:01S -0500 [INFO] com.cognizant.cognizantits.ide.main.Main finish:Cognizant Intelligent Test Scripter IDE has been Terminated - [ Total Time : 01:33:11.753 ]
+2018-01-12 02:18:15:01S -0500 [INFO] com.cognizant.cognizantits.ide.main.Main main:Launching Cognizant Intelligent Test Scripter IDE
+2018-01-12 02:18:16:01S -0500 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in /Users/ssmita/workspace/automation/cits/cognizant-intelligent-test-scripter-1.1/lib/cognizant-intelligent-test-scripter-engine-1.1.jar
+2018-01-12 02:18:18:01S -0500 [INFO] com.cognizant.cognizantits.engine.drivers.ChromeEmulators load:Loading ChromeEmulators from file
+2018-01-12 02:18:47:01S -0500 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in /Users/ssmita/workspace/automation/cits/cognizant-intelligent-test-scripter-1.1/lib/cognizant-intelligent-test-scripter-engine-1.1.jar
+2018-01-12 02:18:47:263 -0500 [Thread-6] [INFO] com.cognizant.cognizantits.engine.core.TMIntegration - TM integration disabled for the testset
+2018-01-12 02:19:27:547 -0500 [Thread-6] [INFO] com.cognizant.cognizantits.engine.support.DesktopApi - Trying to Open - /Users/ssmita/workspace/automation/cits/cognizant-intelligent-test-scripter-1.1/Projects/DemoProject/Results/TestExecution/eCommerce/Cycle1/12-Jan-2018 02-18-47/summary.html
+2018-01-12 02:19:27:547 -0500 [Thread-6] [INFO] com.cognizant.cognizantits.engine.support.DesktopApi - Trying to exec: [open] [%s] [/Users/ssmita/workspace/automation/cits/cognizant-intelligent-test-scripter-1.1/Projects/DemoProject/Results/TestExecution/eCommerce/Cycle1/12-Jan-2018 02-18-47/summary.html]
+2018-01-12 02:30:05:01S -0500 [INFO] com.cognizant.cognizantits.ide.main.Main main:Launching Cognizant Intelligent Test Scripter IDE
+2018-01-12 02:30:05:01S -0500 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in /Users/ssmita/workspace/automation/cits/cognizant-intelligent-test-scripter-1.1/lib/cognizant-intelligent-test-scripter-engine-1.1.jar
+2018-01-12 02:30:07:01S -0500 [INFO] com.cognizant.cognizantits.engine.drivers.ChromeEmulators load:Loading ChromeEmulators from file

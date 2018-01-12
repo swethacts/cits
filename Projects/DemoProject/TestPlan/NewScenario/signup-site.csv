@@ -1,0 +1,4 @@
+Step,ObjectName,Description,Action,Input,Condition,Reference
+1,Browser,Open the Url [<Data>] in the Browser,Open,@https://www.homedepot.com,,
+2,email,Enter the value [<Data>] in the Field [<Object>],Set,@guest@gmail.com,,singup
+3,gobutton,"Click the [<Object>] ",Click,,,singup

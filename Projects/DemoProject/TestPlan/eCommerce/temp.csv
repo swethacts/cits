@@ -1,0 +1,7 @@
+Step,ObjectName,Description,Action,Input,Condition,Reference
+1,SIGNIN,"Wait for [<Object>] to be clickable ",waitForElementToBeClickable,,,The
+2,SIGNIN,"Click the [<Object>] ",Click,,,The
+3,Email,Enter the value [<Data>] in the Field [<Object>],Set,@jatin_jogi@homedepot.com,,The
+4,Password,Enter the Decrypted value [<Data>] in the Field [<Object>],setEncrypted,@d2luZG93c0AxMg== Enc,,The
+5,Sign In1,"Click the [<Object>] ",Click,,,The
+6,Browser,Wait for [<Data>] milli seconds,pause,@5000,SIGNIN,

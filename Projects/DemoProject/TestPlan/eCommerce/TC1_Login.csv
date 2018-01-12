@@ -1,0 +1,5 @@
+Step,ObjectName,Description,Action,Input,Condition,Reference
+1,Browser,Open the Url [<Data>] in the Browser,Open,@https://www.homedepot.com,,
+2,My Account,"Click the [<Object>] ",Click,,,The
+3,Execute,,eCommerce:temp,,,
+4,UserGreeting,Assert if Browser's Title Equals [<Data>],assertElementTextContains,"@Hello, Jatin",,The

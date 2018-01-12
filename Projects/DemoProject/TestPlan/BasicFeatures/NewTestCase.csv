@@ -1,0 +1,10 @@
+Step,ObjectName,Description,Action,Input,Condition,Reference
+1,Browser,Open the Url [<Data>] in the Browser,Open,@https://www.homedepot.com,,
+2,headerSearch,"Click the [<Object>] ",Click,,,The
+3,headerSearch1,Enter the value [<Data>] in the Field [<Object>],Set,@hammer,,The
+4,headerSearchButton,"Click the [<Object>] ",Click,,,The
+5,20 oz. Hammer,"Click the [<Object>] ",Click,,,Search
+6,name205594063,"Click the [<Object>] ",Click,,,DEWALT
+7,name2055940631,"Click the [<Object>] ",Click,,,DEWALT
+8,Add to Cart,"Click the [<Object>] ",Click,,,DEWALT
+9,Checkout Now,"Click the [<Object>] ",Click,,,Page
