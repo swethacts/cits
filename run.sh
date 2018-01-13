@@ -1,3 +1,5 @@
+#!/bin/bash
+
 DIRNAME="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 cd "$DIRNAME"
 #class paths
