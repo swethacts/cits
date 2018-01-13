@@ -4,6 +4,8 @@ pipeline {
     stage('Version') {
       steps {
         sh 'echo "helloworld"'
+        sh 'pwd'
+        sh 'ls -ltr'
       }
     }
   }
