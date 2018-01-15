@@ -1,7 +1,7 @@
 pipeline {
   agent any
   stages {
-    stage('Version') {
+    stage('Functional Test') {
       agent { docker 'atin/cits' } 
       steps {
 		slackSend color: "2187e0", message: "`Creating CITS Docker container...`"
